@@ -13,7 +13,7 @@ import Login from "./pages/Login";
 import PageNotFound from "./pages/PageNotFound";
 import AppLayout from "./ui/AppLayout";
 import { Toaster } from "react-hot-toast";
-import Booking from "./features/bookings/booking";
+import Booking from "./features/bookings/Booking";
 import CheckIn from "./features/check-in-out/CheckIn";
 import ProtectedRoute from "./ui/ProtectedRoute";
 import { DarkModeProvider } from "./context/DarkModeContext";
